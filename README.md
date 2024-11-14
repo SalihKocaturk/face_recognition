@@ -29,5 +29,5 @@ Veri artırımı işlemlerini Python dili ile gerçekleştirerek Pillow (Python 
 
 ---
 
-Bu README dosyası, projemizin veri toplama ve artırma aşamaları ile kullanılan yöntemler hakkında bilgi vermektedir. İlerleyen aşamalarda daha fazla geliştirme ve iyileştirme planlanmaktadır.
+Bu README dosyası, projemizin veri toplama ve artırma aşamaları ile kullanılan yöntemler hakkında bilgi vermektedir. 
 
