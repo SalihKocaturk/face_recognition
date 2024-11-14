@@ -11,10 +11,6 @@ Projenin ilk aşamasında, insan yüzlerinden duygu analizi üzerine yapılmış
 
 Araştırmaların ardından, proje süreci hakkında bilgi paylaşımı yapmak ve kararlar almak amacıyla çevrimiçi bir toplantı düzenledik. Bu toplantıda analiz edilecek duygular tartışılmış ve 10 farklı duygu kategorisi belirlenmiştir. Yapılan değerlendirmeler sonucu, veri toplama ve analiz işlemleri için uygun olan 5 duygu seçilmiştir.
 
-Veri artırımı işlemleri için başlıca kullanılan araçlar JupyterLab ve Visual Studio Code (VSCode) olmuştur. Bu araçlar, veri seti üzerinde çeşitli düzenlemeler yapmamıza ve model doğruluğunu artıracak küçük değişiklikler yapmamıza olanak tanımıştır.
-
-Başlangıçta PNG formatında olan görsellerin daha yaygın ve işlem kolaylığı sağlayan JPG formatına dönüştürülmesine karar verilmiştir. Bu değişiklik, görsellerin daha verimli işlenmesini ve daha geniş bir kullanıcı kitlesi için erişilebilir olmasını sağlamıştır.
-
 Veri artırımı için döndürme, rastgele şekil ekleme gibi tekniklerden yararlanılmıştır. Bu yöntemler, model eğitimi için gerekli olan veri setinin çeşitliliğini artırmaya yardımcı olmuştur. Son olarak, proje kodları tamamlanarak GitHub üzerinden paylaşılabilir hale getirilmiş ve projenin ilk aşaması başarıyla tamamlanmıştır.
 
 ## III. Veri Toplama
