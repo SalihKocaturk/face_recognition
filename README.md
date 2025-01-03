@@ -110,8 +110,8 @@ Her model için ROC eğrisi çizilerek modellerin sınıflar arasındaki ayrım 
 ## Kullanım
 
 ### Gerekli Bağımlılıkların Yüklenmesi
-```bash
-2.Bolum(Makine Ogrenimi Kodları)/TestUygulaması.ipynb uygulamasını indirip collab aracılığı ile kurduktan ve colab ile drive arasındaki bağlantıyı kurup
+2.Bolum(Makine Ogrenimi Kodları)/TestUygulaması.ipynb uygulamasını indirip collab aracılığı ile kurduktan ve colab ile drive arasındaki bağlantıyı kurup.
+
 modeli driveınıza aktardıktan sonre deneme yapabilirsiniz, farklı modelleri de model_save_path'i değiştirerek deneyebilirsiniz.   
 Bu README dosyası, projemizin veri toplama ve artırma aşamaları ile kullanılan yöntemler hakkında bilgi vermektedir. 
 
