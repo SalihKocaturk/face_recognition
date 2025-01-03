@@ -1,4 +1,4 @@
-# Yüz İfadelerinden Duygu Analizi - README
+# Bölüm 1:  Yüz İfadelerinden Duygu Analizi(Veri Toplama) - README
 
 ## Özet
 Projemizin ilk aşamasında, veri toplama ve veri artırma işlemlerine odaklandık.
@@ -28,6 +28,7 @@ Kullandığımız veri artırımı teknikleri arasında döndürme, parlaklık v
 Veri artırımı işlemlerini Python dili ile gerçekleştirerek Pillow (Python Imaging Library) kütüphanesinden yararlandık. Bu süreçte, veri artırımı tekniklerini öğrenmek ve geliştirmek amacıyla Pillow’un resmi kaynaklarını, Medium’daki blogları ve YouTube videolarını kaynak olarak kullandık.
 
 ---
+# Bölüm 2:  Yüz İfadelerinden Duygu Analizi(Makine Öğrenimi) - README
 
 Bu README dosyası, projemizin veri toplama ve artırma aşamaları ile kullanılan yöntemler hakkında bilgi vermektedir. 
 
