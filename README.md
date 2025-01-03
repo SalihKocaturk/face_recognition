@@ -78,35 +78,32 @@ Bu proje, yüz ifadelerinden bireylerin hislerini belirlemek için çeşitli tra
 Eğitim ve doğrulama sırasında oluşan loss ve accuracy değerleri grafiklerle görselleştirilmiştir.
 
 ### Loss Eğrileri
-#### ViT 
+### ViT 
 ![image](https://github.com/user-attachments/assets/c48cff8d-37e2-4acf-bcf2-6a3d55a9ebaa)
 
-#### Cait
+### Cait
 ![image](https://github.com/user-attachments/assets/59c662f8-f487-49c6-acd4-7059584d2fe0)
-#### Deit
+### Deit
 ![image](https://github.com/user-attachments/assets/8300a66e-8700-4639-9a95-2c4188521b65)
-#### Pit
+### Pit
 ![Loss Eğrisi]()
-#### TinyVit
+### TinyVit
 ![Loss Eğrisi]()
-
-### Örnek Accuracy Eğrisi
-![Accuracy Eğrisi](path/to/accuracy_curve.png)
 
 ---
 
 ## ROC Eğrileri
 Her model için ROC eğrisi çizilerek modellerin sınıflar arasındaki ayrım başarısı gösterilmiştir.
-#### ViT 
+### ViT 
 ![image](https://github.com/user-attachments/assets/6ee7d7e5-19a8-4dac-a36c-1a1884ca5ead)
 
-#### Cait
+### Cait
 ![image](https://github.com/user-attachments/assets/b51a6844-9f56-4d26-8d46-52c0cb786562)
-#### Deit
+### Deit
 ![image](https://github.com/user-attachments/assets/8300a66e-8700-4639-9a95-2c4188521b65)
-#### Pit
+### Pit
 ![Loss Eğrisi]()
-#### TinyVit
+### TinyVit
 ![Loss Eğrisi]()
 ---
 
