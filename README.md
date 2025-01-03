@@ -77,8 +77,17 @@ Bu proje, yüz ifadelerinden bireylerin hislerini belirlemek için çeşitli tra
 ## Loss ve Accuracy Eğrileri
 Eğitim ve doğrulama sırasında oluşan loss ve accuracy değerleri grafiklerle görselleştirilmiştir.
 
-### Örnek Loss Eğrisi
-![Loss Eğrisi](path/to/loss_curve.png)
+### Loss Eğrileri
+#### ViT 
+![Loss Eğrisi]()
+#### Cait
+![Loss Eğrisi]()
+#### Deit
+![Loss Eğrisi]()
+#### Pit
+![Loss Eğrisi]()
+#### TinyVit
+![Loss Eğrisi]()
 
 ### Örnek Accuracy Eğrisi
 ![Accuracy Eğrisi](path/to/accuracy_curve.png)
