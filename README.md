@@ -115,3 +115,8 @@ Her model için ROC eğrisi çizilerek modellerin sınıflar arasındaki ayrım 
 modeli driveınıza aktardıktan sonre deneme yapabilirsiniz, farklı modelleri de model_save_path'i değiştirerek deneyebilirsiniz.   
 Bu README dosyası, projemizin veri toplama ve artırma aşamaları ile kullanılan yöntemler hakkında bilgi vermektedir. 
 
+--------------------
+## Örnek Sonuç:
+![image](https://github.com/user-attachments/assets/6f09f2ad-b960-4035-8a93-62d4e1cc8916)
+
+
