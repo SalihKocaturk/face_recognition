@@ -38,13 +38,13 @@ Bu proje, yüz ifadelerinden bireylerin hislerini belirlemek için çeşitli tra
 
 ## Kullanılan Modeller ve Performans Sonuçları
 
-| Model     | Accuracy (%) | Epoch |  
-|-----------|--------------|-------|  
-| **ViT**   | 76.83        | 5     |  
-| **CaiT**  | 78.91        | 5     |  
-| **DeiT**  | 73.00        | 10    |  
-| **PiT**   | 87.40        | 8     |  
-| **TinyViT** | 78.00       | 10    |  
+| Model     | Accuracy (%) | Epoch |  Training Time | İnference Time|
+|-----------|--------------|-------|  --------------- | ------------ |
+| **ViT**   | 76.83        | 5     |  2725.03s    |   215.06 s |
+| **CaiT**  | 78.91        | 5     |  2680.81s     |  418.21   |
+| **DeiT**  | 73.00        | 10    |  | |
+| **PiT**   | 87.40        | 8     |  | |
+| **TinyViT** | 78.00       | 10    |  | |
 
 ---
 
