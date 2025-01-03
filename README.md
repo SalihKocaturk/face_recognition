@@ -79,7 +79,8 @@ Eğitim ve doğrulama sırasında oluşan loss ve accuracy değerleri grafiklerl
 
 ### Loss Eğrileri
 #### ViT 
-![Loss Eğrisi](img/vit_loss.png)
+![Loss Eğrisi]![image](https://github.com/user-attachments/assets/c48cff8d-37e2-4acf-bcf2-6a3d55a9ebaa)
+
 #### Cait
 ![Loss Eğrisi]()
 #### Deit
