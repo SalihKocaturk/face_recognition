@@ -44,7 +44,7 @@ Bu proje, yüz ifadelerinden bireylerin hislerini belirlemek için çeşitli tra
 | **CaiT**  | 78.91        | 5     |  2680.81s     |  418.21   |
 | **DeiT**  | 73.00        | 10    |  | |
 | **PiT**   | 87.40        | 8     |  | |
-| **TinyViT** | 78.00       | 10    |  | |
+| **TinyViT** | 78.00       | 10    |  1724.57s| 1934.67s |
 
 ---
 
@@ -86,7 +86,7 @@ Eğitim ve doğrulama sırasında oluşan loss ve accuracy değerleri grafiklerl
 ### Deit
 ![image](https://github.com/user-attachments/assets/8300a66e-8700-4639-9a95-2c4188521b65)
 ### Pit
-![Loss Eğrisi]()
+![image](https://github.com/user-attachments/assets/15d2c417-f4cb-4f8c-8ce0-bccf354d001e)
 ### TinyVit
 ![Loss Eğrisi]()
 
@@ -102,9 +102,9 @@ Her model için ROC eğrisi çizilerek modellerin sınıflar arasındaki ayrım 
 ### Deit
 ![image](https://github.com/user-attachments/assets/8300a66e-8700-4639-9a95-2c4188521b65)
 ### Pit
-![Loss Eğrisi]()
+![image](https://github.com/user-attachments/assets/81b32c41-b9a6-4b6c-b95e-24d08fe23f7d)
 ### TinyVit
-![Loss Eğrisi]()
+![image](https://github.com/user-attachments/assets/153a8d0b-7927-49ae-b07b-8dd230109010)
 ---
 
 ## Kullanım
