@@ -29,6 +29,75 @@ Veri artırımı işlemlerini Python dili ile gerçekleştirerek Pillow (Python 
 
 ---
 # Bölüm 2:  Yüz İfadelerinden Duygu Analizi(Makine Öğrenimi) - README
+# Yüz İfadelerinden His Analizi Projesi
+
+## Proje Açıklaması
+Bu proje, yüz ifadelerinden bireylerin hislerini belirlemek için çeşitli transformer tabanlı modellerin performansını değerlendirmeyi amaçlamaktadır. Modellerin eğitimi, doğrulaması ve test edilmesi için Python ve PyTorch kullanılmıştır. 5 farklı sınıf içeren veri seti üzerinde yapılan çalışmalar, modellerin performansını karşılaştırmak ve sonuçları analiz etmek için ROC eğrileri, loss eğrileri ve doğruluk (accuracy) metrikleriyle değerlendirilmiştir.
+
+---
+
+## Kullanılan Modeller ve Performans Sonuçları
+
+| Model     | Accuracy (%) | Epoch |  
+|-----------|--------------|-------|  
+| **ViT**   | 76.83        | 5     |  
+| **CaiT**  | 78.91        | 5     |  
+| **DeiT**  | 73.00        | 10    |  
+| **PiT**   | 87.40        | 8     |  
+| **TinyViT** | 78.00       | 10    |  
+
+---
+
+## Kullanılan Teknolojiler
+
+### Programlama Dili ve Framework
+- **Python**
+
+### Kütüphaneler ve Araçlar
+- **PyTorch**: Model oluşturma, eğitim ve test işlemleri için.
+- **Torchvision**: Görüntü ön işleme ve veri yükleme için.
+- **Timm**: Transformer tabanlı modelleri kullanmak için.
+- **Matplotlib**: Grafik çizimi (loss ve accuracy eğrileri, ROC eğrileri).
+- **Scikit-learn**: Confusion Matrix ve ROC-AUC hesaplamaları.
+
+### Veri Seti
+- **Sınıflar**:  
+  - **Mutlu**  
+  - **Üzgün**  
+  - **Kızgın**  
+  - **Durgun**  
+  - **Şaşkın**
+- **Yapı**:  
+  - **`train/`**: Eğitim verileri.  
+  - **`val/`**: Doğrulama verileri.  
+  - **`test/`**: Test verileri.
+
+---
+
+## Loss ve Accuracy Eğrileri
+Eğitim ve doğrulama sırasında oluşan loss ve accuracy değerleri grafiklerle görselleştirilmiştir.
+
+### Örnek Loss Eğrisi
+![Loss Eğrisi](path/to/loss_curve.png)
+
+### Örnek Accuracy Eğrisi
+![Accuracy Eğrisi](path/to/accuracy_curve.png)
+
+---
+
+## ROC Eğrileri
+Her model için ROC eğrisi çizilerek modellerin sınıflar arasındaki ayrım başarısı gösterilmiştir.
+
+### Örnek ROC Eğrisi
+![ROC Eğrisi](path/to/roc_curve.png)
+
+---
+
+## Kullanım
+
+### Gerekli Bağımlılıkların Yüklenmesi
+```bash
+pip install torch torchvision timm matplotlib scikit-learn
 
 Bu README dosyası, projemizin veri toplama ve artırma aşamaları ile kullanılan yöntemler hakkında bilgi vermektedir. 
 
